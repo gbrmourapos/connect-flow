@@ -1,0 +1,46 @@
+.resetContainer{
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    background-color: #647082;
+}
+.form-select{
+    margin: 8px 0;
+}
+
+.resetContainer div{
+    width: 100%;
+    margin: auto;
+}
+
+.resetContainer div h1{
+    color: #F6F6FF;
+    margin-bottom: 6rem;
+}
+
+
+.form-signin{
+    width: 100%;
+    background-color: #F6F6FF;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+    border-radius: 16px;
+}
+
+.form-signin input{
+    margin: 8px 0;
+}
+
+
+.btn-block{
+    margin: 4px 0px;
+    width: 100%;
+}
+
+.btn-blue{
+    background-color: #309DDB !important;
+    color: #F6F6FF !important;
+}
