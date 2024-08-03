@@ -48,7 +48,7 @@ function Resetpass(){
                           <option value="2">2023</option>
                           <option value="3">2024</option>
                      </select>
-                    <button class="btn btn-primary" type="submit">Próximo</button>
+                    <button class="btn btn-primary" type="submit" onClick={(e)=>resetHandle(e)}>Próximo</button>
                     
                 </form>
             </div>
